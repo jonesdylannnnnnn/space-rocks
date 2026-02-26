@@ -1,0 +1,12 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"obj_atom","order":2,"path":"objects/obj_atom/obj_atom.yy",},
+    {"name":"obj_bullet","order":1,"path":"objects/obj_bullet/obj_bullet.yy",},
+    {"name":"obj_game","order":3,"path":"objects/obj_game/obj_game.yy",},
+    {"name":"spr_atom","order":8,"path":"sprites/spr_atom/spr_atom.yy",},
+    {"name":"spr_neutron","order":3,"path":"sprites/spr_neutron/spr_neutron.yy",},
+    {"name":"spr_proton","order":4,"path":"sprites/spr_proton/spr_proton.yy",},
+    {"name":"spr_uranium","order":1,"path":"sprites/spr_uranium/spr_uranium.yy",},
+  ],
+}
